@@ -11,7 +11,7 @@ Ursprünglich für den industriellen Einsatz für die [Wasseraufbereitung bei fu
 
 Die Kombination von _**E.KO IONISER**_ mit _**Korrostop4.0**_ ist an alle Maschinen aller Hersteller anpassbar und bietet mit seinen vielen Kommunikationskanälen volle Integrierbarkeit in Ihre bestehende Firmen IT. _**Korrostop4.0**_ ist das ideale Messgerät um die Prozessautomatisierung in Ihrem Unternehmen zu perfektionieren. Siehe auch [**Features**](Alle-Features).
 
-> Die aktuelle Version **SYS202002** ist am 30.01.2020 erschienen. Siehe auch [Versionen](../../wiki/Versionen).
+> Die aktuelle Version **SYS412002** ist am 28.01.2020 erschienen. Siehe auch [Versionen](../../wiki/Versionen).
 
 ## Hier finden Sie:
 * laufend aktualisierte [Informationen](../../wiki) zu **Korrostop4.0**
