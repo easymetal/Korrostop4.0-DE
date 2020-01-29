@@ -4,12 +4,11 @@
 
 ## Was ist **Korrostop4.0**
 
-_**Korrostop4.0**_ ist ein zuverlässiges, präzises Messgerät zur Messung des Leitwerts, Temperatur und Durchfluss von deionisiertem Wasser. [_**Korrostop4.0**_](https://www.easymetal.com/produkte/korrostop-40/korrostop-40.html) ist ausschließlich zum Einsatz mit der [_**E.KO IONISER**_](https://www.easymetal.com/produkte/eko-ioniser/anwendungsbereiche.html) Serie von [_**easymetal**_](https://www.easymetal.com/) zugelassen. Wenn Sie _**Korrostop4.0**_ unabhängig davon einsetzen wollen, kontaktieren sie uns bitte [hier](https://www.easymetal.com/unternehmen/kontakt.html).
-
+_**Korrostop4.0**_ ist ein zuverlässiges, präzises Messgerät zur Messung von Leitwert, Temperatur und Durchfluss von deionisiertem Wasser nach der Behandlung mit dem [_**E.KO IONISER**_] System. [_**Korrostop4.0**_](https://www.easymetal.com/produkte/korrostop-40/korrostop-40.html) ist ausschließlich zum Einsatz mit der [_**E.KO IONISER**_](https://www.easymetal.com/produkte/eko-ioniser/anwendungsbereiche.html) Serie von [_**easymetal**_](https://www.easymetal.com/) zugelassen. Der Betrieb von _**Korrostop4.0**_ an anderen Deionisiersystemen ist nicht gestattet. Sollte _**Korrostop4.0**_ in Verbindung mit Fremdprodukten (Deionisiersysteme) widerrechtlich betrieben werden, fallen Lizenzgebühren als nachträglich zu verrechnende Kosten an, die nur in Verbindung mit dem _**E.KO IONISER 1501/1502/1503**_ abgedeckt sind.
 
 Ursprünglich für den industriellen Einsatz für die [Wasseraufbereitung bei funkenerosivem Schneiden](https://www.easymetal.com/branchenloesungen/edm/prozesswasser-erodiermaschine-optimale-wasserqualitaet.html) konzipiert, werden die _**E.KO IONISER**_ mit _**Korrostop4.0**_ aufgrund der hohen Qualität immer häufiger in anderen Bereichen eingesetzt.
 
-Die Kombination von _**E.KO IONISER**_ mit _**Korrostop4.0**_ ist an alle Maschinen aller Hersteller anpassbar und bietet mit seinen vielen Kommunikationskanälen volle Integrierbarkeit in Ihre bestehende Firmen IT. _**Korrostop4.0**_ ist das ideale Messgerät um die Prozessautomatisierung in Ihrem Unternehmen zu perfektionieren. Siehe auch [**Features**](Alle-Features).
+Die Kombination von _**E.KO IONISER**_ mit _**Korrostop4.0**_ ist mit allen EDM-Maschinen (Hersteller unabhängig) kompatibel und bietet mit seinen vielen Kommunikationskanälen volle Integrierbarkeit in Ihre bestehende Firmen IT. _**Korrostop4.0**_ ist das ideale Messgerät um die Prozessautomatisierung in Ihrem Unternehmen zu perfektionieren. Siehe auch [**Features**](Alle-Features).
 
 > Die aktuelle Version **SYS412002** ist am 28.01.2020 erschienen. Siehe auch [Versionen](../../wiki/Versionen).
 
