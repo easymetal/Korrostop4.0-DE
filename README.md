@@ -1,4 +1,4 @@
-![**Korrostop4.0** - Deutsch](Images/Korrostop4.0de.jpg)
+![Bild](Images/Korrostop4.0de.jpg)
 
 # **Korrostop4.0** - _deutschsprachige Informationen_
 
@@ -26,7 +26,7 @@ Die Kombination von _**E.KO IONISER**_ mit _**Korrostop4.0**_ ist mit allen EDM-
 * **Partner**: Anwendungsfälle & Spezifikationen
 * **Entwickler** im Bereich der Prozessautomatisierung und Integration: Musterbeispiele & Spezifikationen
 
-![Bild Korrostop4.0 auf E.KO IONISER 1501](Images/K4-head1.jpg)
+![Bild](Images/K4-head1.jpg)
 > Bild: **Korrostop4.0** auf **E.KO IONISER 1501** 
 
 _© 2020 by [easymetal](https://www.easymetal.com/)_
